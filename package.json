@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "oxc-transform": "^0.38.0",
+    "esbuild": "^0.24.0",
+    "unplugin-isolated-decl": "^0.9.1"
+  }
+}
